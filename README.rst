@@ -1,9 +1,9 @@
 .. image:: https://github.com/python-telegram-bot/logos/blob/master/logo-text/png/ptb-logo-text_768.png?raw=true
    :align: center
    :target: https://python-telegram-bot.org
-   :alt: python-telegram-bot Logo
+   :alt: python-telegram-bot Logoteste
 
-We have made you a wrapper you can't refusee
+We have made you a wrapper you can't refuseee
 
 We have a vibrant community of developers helping each other in our `Telegram group <https://telegram.me/pythontelegrambotgroup>`_. Join us!
 
@@ -61,7 +61,7 @@ We have a vibrant community of developers helping each other in our `Telegram gr
 =================
 Table of contents
 =================
-
+   
 - `Introduction`_
 
 - `Telegram API support`_
